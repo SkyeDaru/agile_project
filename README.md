@@ -17,6 +17,7 @@ program revolves around a frequent conversation involving women who are passiona
 that they have never received the opportunity to actually pursue it professionally.
 
 I agree with the objective of bringing more women into technology, as there is a huge gender gap in this field. Pushing women to take this step can break barriers in gender equality in tech spaces.
+-Jahnavi Vyas
 
 
 
